@@ -1,0 +1,10 @@
+# ninja log v5
+0	1102	1710429059055732707	CMakeFiles/untitled2.dir/Pilca_Cosmin_Problem0_length_test.cpp.o	cf529d9058e8a6fb
+17	1218	1710428836515755201	CMakeFiles/untitled2.dir/PREFIX_length_test.cpp.o	b55bfe7bb7e9f471
+8	1544	1710428503772575980	CMakeFiles/untitled2.dir/PREFIX_length.cpp.o	ef4d38a24b705f81
+0	145	1710432168496604289	build.ninja	227dbdf8f3d6ca27
+1125	1290	1710429059246102622	untitled2	df1f43fb5546d792
+0	1125	1710429059081177060	CMakeFiles/untitled2.dir/Pilca_Cosmin_Problem0.cpp.o	d0e7f0cacc83f249
+18	1716	1710433205413359683	CMakeFiles/untitled2.dir/Pilca_Cosmin_Problem0_length_test.cpp.o	cf529d9058e8a6fb
+17	1718	1710433205416990714	CMakeFiles/untitled2.dir/Pilca_Cosmin_Problem0.cpp.o	d0e7f0cacc83f249
+1718	1875	1710433205580130970	untitled2	df1f43fb5546d792
